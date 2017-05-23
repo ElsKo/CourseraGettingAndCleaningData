@@ -17,14 +17,14 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ## Data
 DatasetTidy contains is based on 8 files from the orinal dataset
-*subject_test.txt
-*subject_train.txt
-*X_test.txt
-*X_train.txt
-*Y_test.txt
-*Y_train.txt
-*activity_labels.txt
-*features.txt
+* subject_test.txt
+* subject_train.txt
+* X_test.txt
+* X_train.txt
+* Y_test.txt
+* Y_train.txt
+* activity_labels.txt
+* features.txt
 
 A subset of columns in the X_test.txt and X_train.txt is used, the columns that contain mean or standard deviation for each measurement.
 
