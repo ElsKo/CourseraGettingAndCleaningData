@@ -13,8 +13,8 @@
 ##----- Set location where data is stored (by user)
 ##-------------------------------------------------------
 
-# if needed, user can change location where files are stored
-folderpath<-"C:/Users/Els/Documents/Coursera Data Science/M03 Getting and Cleaning Data/W4/Project/data"
+## Copy path where data and script is stored
+folderpath<-"C:/Users/path/to/data"
 
 ##-------------------------------------------------------
 ##-----Set working directory
